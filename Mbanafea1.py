@@ -10,7 +10,7 @@ user_number = int(input("please enter a number:"))
 for even_number in range(1, user_number+1):
     if even_number%2 == 0:
      print(f"even numbers untill {user_number} are : {even_number}")
-
+#================
 even_number_1 = 1
 while even_number_1 <= user_number:
   if even_number_1 %2 == 0:
